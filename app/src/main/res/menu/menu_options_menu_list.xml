@@ -9,5 +9,4 @@
         android:id="@+id/menuListOptionCurry"
         app:showAsAction="never"
         android:title="@string/menu_list_options_curry"/>
-
 </menu>
