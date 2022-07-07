@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">MenuSample</string>
-    <string name="tv_menu_unit">どる</string>
+    <string name="tv_menu_unit">円</string>
     <string name="menu_list_options_teishoku">定食</string>
     <string name="menu_list_options_curry">カレー</string>
     <string name="menu_list_context_desc">説明を表示</string>
